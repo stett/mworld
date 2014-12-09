@@ -1,0 +1,11 @@
+**/obj/*/Release/
+**/obj/*/Debug/
+*.exe
+*.suo
+*.user
+*.pdb
+*.cache
+*.cachefile
+*.txt
+*.xnb
+ContentPipeline.xml
